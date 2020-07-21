@@ -1,0 +1,34 @@
+[0m[0K]0;:/c/Users/USER/Desktop/Temporary_add_to_version_control[?25l
+[0;32mUSER@USER-PC [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/USER/Desktop/Tempo[0Kr[?25l
+ary_add_to_version_control/.git/[0K
+[0K[?25h[?25l
+[0;32mUSER@USER-PC [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0;36m (maste[0Kr
+)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[?25l
+[0K[?25hNothing specified, nothing added.[0K[?25l
+[0;33mhint: Maybe you wanted to say 'git add .'?[0m[0K
+[0;33mhint: Turn this message off by running[0m[0K
+[0;33mhint: "git config advice.addEmptyPathspec false"[0m[0K
+[0K[?25h[?25l
+[0;32mUSER@USER-PC [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0;36m (maste[0Kr
+)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hI[0Kn[0Ki[0Kt[0Ki[0Ka[0Kl[0K[26G[?25l$ git commit -m "Initial c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K
+Initial commit[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed[0K)
+[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31mTemporary_add_to_version_control.Rproj[0m[0K
+[0K
+nothing added to commit but untracked files present (use "git a[0Kd
+d" to track)[0K
+[0K[?25h[?25l
+[0;32mUSER@USER-PC [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0;36m (maste[0Kr
+)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h
